@@ -10,4 +10,4 @@ Vassil Toumbev vassy@mail.bg https://github.com/vassy
 
 List of contributors:
 
-Vincent Baggerman vincent.baggerman@abstractive.be https://github.com/vassy
+Vassil Toumbev vassy@mail.bg https://github.com/vassy
